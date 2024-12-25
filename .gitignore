@@ -1,0 +1,4 @@
+**/watch_later
+.stow-local-ignore
+**/*.local.*
+**/.zcompdump
